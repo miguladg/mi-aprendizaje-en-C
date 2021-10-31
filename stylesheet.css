@@ -1,0 +1,19 @@
+body {
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+  }
+
+h1 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+h3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
